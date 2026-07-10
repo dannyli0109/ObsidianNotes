@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "09639ab05dc27b0f",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8e909f8746d3aa8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "440d4c932b8ffe74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Daily/2026-07-09.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-07-09"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "835181a02492cf8b",
+    "type": "split",
+    "children": [
+      {
+        "id": "5284a61ae2c74c40",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1bcda6b17ae6e3c5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "a4c32f4bce0c67d7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "5f812b9deca6fb17",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "587c379aa1a4e3bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "6cd134b7d28e84bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0db805f8dacf6db4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "02 Projects/Playdate Practice/README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "README 的反向链接列表"
+            }
+          },
+          {
+            "id": "d4ec9b3015cdf9b3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "02 Projects/Playdate Practice/README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "README 的出链列表"
+            }
+          },
+          {
+            "id": "232170c17a9a3db4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "d457581c96ff9574",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "7e4b5749daa074f4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "02 Projects/Playdate Practice/README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "README 的大纲"
+            }
+          },
+          {
+            "id": "c07de5428c524cd8",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "02 Projects/Playdate Practice/README.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "脚注"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "440d4c932b8ffe74",
+  "lastOpenFiles": [
+    "01 Daily/2026-07-10.md",
+    "03 Learning/Godot-渐进式教程.md",
+    "01 Daily/2026-07-09.md",
+    "02 Projects/Godot Practice/README.md",
+    "_assets/Pasted image 20260710010722.png",
+    "05 Bugs & Fixes/111.md",
+    "05 Bugs & Fixes/未命名.md",
+    "02 Projects/Cpp Engine/未命名.md",
+    "02 Projects/Cpp Engine/11",
+    "01 Daily/signal.md",
+    "02 Projects/Cpp Engine/README.md",
+    "02 Projects/Playdate Practice/README.md",
+    "CONTEXT.md",
+    "99 Templates/Code Snippet.md",
+    "99 Templates/Bug Note.md",
+    "99 Templates/Concept Note.md",
+    "99 Templates/Tutorial Note.md",
+    "02 Projects/Cpp Engine",
+    "02 Projects/Playdate Practice",
+    "02 Projects/Godot Practice",
+    "99 Templates/Daily Template.md",
+    "欢迎.md",
+    "未命名.base",
+    "_assets",
+    "99 Templates",
+    "06 Ideas",
+    "05 Bugs & Fixes",
+    "04 Code Snippets"
+  ]
+}
