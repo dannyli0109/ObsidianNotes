@@ -44,7 +44,7 @@
       "folder": {
         "enabled": true,
         "folders": [
-          "03 Learning"
+          "03 Learning/Concepts"
         ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,
@@ -106,7 +106,7 @@
       "folder": {
         "enabled": true,
         "folders": [
-          "03 Learning"
+          "03 Learning/Tutorials"
         ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,

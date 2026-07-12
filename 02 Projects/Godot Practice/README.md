@@ -19,10 +19,18 @@ WHERE project = "Godot Practice"
 SORT file.name ASC
 ```
 
-## Learning
+## Tutorials
 ```dataview
-TABLE type
-FROM "03 Learning"
+TABLE file.mtime AS "更新"
+FROM "03 Learning/Tutorials"
 WHERE project = "Godot Practice"
 SORT file.mtime DESC
+```
+
+## Concepts
+```dataview
+TABLE file.mtime AS "更新"
+FROM "03 Learning/Concepts"
+WHERE project = "Godot Practice"
+SORT file.name ASC
 ```
